@@ -1,6 +1,5 @@
-#Demo git Repository
-This is the first file in the repo.
+                                                                                                                                                                       ##Demo git Repository##
 
-##Hello World##
-Some changes made
-Some more changes made
+This is the first file in the repository.
+
+In this file Several changes made as the README.md file.
